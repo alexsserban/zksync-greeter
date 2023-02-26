@@ -1,0 +1,16 @@
+{
+  "name": "zksync-greeter",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "alexsserban <alex.serban.dev@gmail.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "@matterlabs/hardhat-zksync-deploy": "^0.6.2",
+    "@matterlabs/hardhat-zksync-solc": "^0.3.14",
+    "ethers": "^5.7.2",
+    "hardhat": "^2.12.7",
+    "ts-node": "^10.9.1",
+    "typescript": "^4.9.5",
+    "zksync-web3": "^0.13.1"
+  }
+}
